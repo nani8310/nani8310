@@ -1,4 +1,5 @@
  -👋 Hi, I 'm' @Naveen Balaji S
+ ![Naveen balaji s]([image.jpg](https://github.com/nani8310/nani8310/blob/main/Naveen%20Balaji%20S.jpeg?raw=true))
 - 🔭 I’m currently pursing as B.Tech(IT) 3rd year
 - 🌱 I’m currently learning to become a data analystic
 - 👯 I’m looking to collaborate on ...
